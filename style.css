@@ -1,0 +1,56 @@
+body{
+    background-color: tomato;
+}
+
+
+#counter-app{
+    background-color: white;
+    height: 25rem;
+    width: 40rem;
+    border-radius: 15px;
+   margin: 10rem auto;
+}
+
+#counter-app h4{
+    font-size: 2rem;
+    text-align: center;
+}
+
+#counter-app h1{
+    font-size: 2rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 2rem;
+    text-align: center;
+
+}
+.center{
+    margin-left: 4rem;
+    margin-top: 4rem;
+}
+
+
+.btn1{
+    padding: 1.1rem 3rem;
+    background-color: blueviolet;
+    outline: none;
+    border: none;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.3rem;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
+.btn2{
+    padding: 1.1rem 3rem;
+    background-color: rgb(15, 15, 15);
+    margin-left: 1.7rem;
+    outline: none;
+    border: none;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.3rem;
+    border-radius: 5px;
+    cursor: pointer;
+}
